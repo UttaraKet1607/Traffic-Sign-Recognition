@@ -10,3 +10,12 @@ About the data:
 3.   More than 50,000 images in total
 4.   Large database
 5.   Some of the classes have many images while some classes have few images
+
+Libraries used: Keras, Matplotlib, Scikit-learn, Pandas, PIL
+
+Steps followed in the project:
+- Explore the dataset
+- Data preprocessing and encoding
+- Build a CNN model
+- Train and validate the model
+- Test the model with test dataset
